@@ -1,7 +1,7 @@
 # RtlSetProcessIsCritical Demo
 
 ⚠️ WARNING
-This is an educational demo by a Red Teamer & Bug Hunter.  
+This is an educational demo by a Red Teamer  
 Do NOT run on a real system — VM only, may cause BSOD.
 
 ## About
